@@ -1,0 +1,3 @@
+1.write a shell script to enter two numbers using command line argument and perform arithmetic operations.
+2.write a shell script that will accept the 2 file name using command line argument and check both are same? print appropriate message.
+3.write a shell script to print login name , OS version detail, user name , list of the files in current directory
