@@ -1,0 +1,5 @@
+file = open("secuiry_log.txt","r")
+data= file.read()
+print("file contents:")
+print(data)
+file.close()

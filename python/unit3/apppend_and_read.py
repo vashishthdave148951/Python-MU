@@ -1,0 +1,6 @@
+file = open("security_log.txt","a")
+file.write("new security event recorded.\n")
+file.seek(0)
+print("a+Mode:")
+print(file.read())
+file.close()

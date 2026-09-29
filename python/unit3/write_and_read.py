@@ -1,0 +1,7 @@
+file = open ("security_log.txt","w")
+file.write("Cyber Security\n")
+file.write("Msc Cyber Security and cyber law\n")
+file.seek(0)
+print("w+ Mode:")
+print(file.read())
+file.close()
